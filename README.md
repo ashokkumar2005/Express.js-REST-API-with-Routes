@@ -45,4 +45,5 @@ project-folder
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/projectname.git
+git clone https://github.com/ashokkumar2005/Express.js-REST-API-with-Routes
+.git
